@@ -1,0 +1,29 @@
+body
+	{
+		background-color: grey;
+	}
+
+ul li 
+{
+	width: 200px;
+	height: 50px;
+	border: 3px solid darkred;
+	background-color: darkblue;
+	font-size: 18px;
+	margin-bottom: 2px;
+	color: white;
+	list-style: none;
+	padding-left: 10px;
+	line-height: 50px;
+}
+
+ul li:hover
+{
+	width: 250px;
+	padding-left: 40px;
+	background-color: pink;
+	border: 3px solid purple;
+	font-weight: bold;
+	cursor: pointer;
+	transition: all 2s;
+}

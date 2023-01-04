@@ -1,0 +1,53 @@
+body
+{
+	background-color: black;
+	text-align: center;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+h1
+{
+	color:pink;
+	font-family: verdana;
+	font-size: 2em
+}
+
+div
+{
+	border: 2px solid pink;
+	border-radius: 50px;
+	width: 30%;
+	margin-left: 25%;
+	margin-right: 35%;
+	padding: 3%;
+}
+
+input
+{
+	background-color: pink;
+	text-align: center;
+	width: 200px;
+	padding: 30px 40px;
+	border-radius: 50px;
+	margin-top: 3px;
+	border: 2px solid red;
+}
+
+
+button
+{
+	background-color: pink;
+	text-align: center;
+	width: 250px;
+	padding: 30px 40px;
+	border-radius: 50px;
+	margin-top: 3px;
+	border: 2px solid red;
+}
+button:hover
+{
+	color: white;
+	background-color: grey;
+	border:2px solid pink;
+}

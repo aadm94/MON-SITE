@@ -1,0 +1,68 @@
+body
+{
+	background-color: silver;
+	text-align: center;
+}
+h1
+{
+	color: red;
+	font-family: verdana;
+}
+
+div
+{
+	background-color: yellow;
+	border-radius: 8px;
+	border:4px ;
+}
+
+
+h2
+{
+	color: black;
+	background-color: yellow;
+
+}
+
+.bloc2
+{
+	background-color: pink;
+	border-radius: 8px;
+	width:250px; 
+	float: left;
+	margin: 1.5%;
+}
+
+.bloc3
+{
+	background-color: blue;
+	width:250px; 
+	border-radius: 8px;
+	float: left;
+	margin: 1.5%;
+}
+
+.bloc4
+{
+	background-color: green;
+	width:250px; 
+	border-radius: 8px;
+	float: left;
+	margin: 1.5%;
+}
+
+
+img
+{
+	width: 250px;
+	height: 250px;
+	border-radius: 8px;
+}
+.bloc5
+{
+	width: 90%;
+	clear: both;
+
+}
+
+
